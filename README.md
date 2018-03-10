@@ -1,0 +1,1 @@
+# openshift-by-red-hat
